@@ -1,4 +1,4 @@
-# FactoriesExample
+# Factory Example
 
 # Code
 ```
