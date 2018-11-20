@@ -1,6 +1,6 @@
 # Factory Example
 
-# Code
+## Code
 ```
 //Model
 struct Donut {
@@ -49,7 +49,7 @@ print(donut3)
 
 
 
-# Output
+## Output
 ```
 Donut(flavor: "cinnamon")
 Donut(flavor: "cinnamon")
